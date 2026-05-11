@@ -9,6 +9,7 @@ TRUE | FALSE
 
 #Question 2
 first_vector <- c(17,12,-33,5)
+5*25
 
 #Question 3
 counting_by_fives <- c(5,10,15,20,25,30,35)
