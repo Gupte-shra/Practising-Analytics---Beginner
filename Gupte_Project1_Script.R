@@ -6,6 +6,7 @@ TRUE & FALSE
 TRUE | FALSE
 75 %% 10
 75 / 10
+30*5
 
 #Question 2
 first_vector <- c(17,12,-33,5)
